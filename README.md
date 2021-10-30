@@ -3,7 +3,9 @@
 * 🎸 Guitar Player
 * 🏃 Sports Lover
 
-React | Redux | NextJS | Ruby On Rails | Contentful | WeChat | Bootstrap | Express
+**React**, **Redux**, **NextJS**, **Ruby On Rails**, **Bootstrap**, **ExpressJS**
+
+**Performance**, **SEO**, **CMS(Contentful)**, **WeChat**
 
 # Contributions
 * [new_google_recaptcha](https://github.com/igorkasyanchuk/new_google_recaptcha/pull/20)
