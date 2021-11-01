@@ -5,7 +5,7 @@
 
 **React**, **Redux**, **NextJS**, **Ruby On Rails**, **Bootstrap**, **ExpressJS**
 
-**Performance**, **SEO**, **CMS(Contentful)**, **WeChat**
+**Web Vitals**, **SEO**, **CMS(Contentful)**, **WeChat**
 
 # Contributions
 * [new_google_recaptcha](https://github.com/igorkasyanchuk/new_google_recaptcha/pull/20)
