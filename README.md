@@ -1,11 +1,7 @@
 # Intro
-* 💻 Frontend Developer @ [Align Technology](https://www.aligntech.com/)
+* 💻 Frontend Developer @ Spotify
 * 🎸 Guitar Player
 * 🏃 Sports Lover
-
-**React**, **Redux**, **NextJS**, **Ruby On Rails**, **Bootstrap**, **ExpressJS**
-
-**Web Vitals**, **SEO**, **CMS(Contentful)**, **WeChat**
 
 # Contributions
 * [new_google_recaptcha](https://github.com/igorkasyanchuk/new_google_recaptcha/pull/20)
